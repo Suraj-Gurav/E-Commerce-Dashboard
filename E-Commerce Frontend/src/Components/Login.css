@@ -1,0 +1,27 @@
+.inputBox{
+    padding: 10px;
+    margin:10px 0;
+    border-color: aquamarine;
+    outline: none;
+    width: 300px;
+}
+.textCenter{
+    text-align: center;
+}
+.loginButton{
+    padding:10px;
+    width:120px;
+    background-color: aquamarine;
+    border:1px solid black;
+    border-radius: 3px;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.message{
+    color: black;
+    font-size: 1rem;
+}
